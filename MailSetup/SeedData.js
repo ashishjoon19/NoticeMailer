@@ -16,31 +16,31 @@ async function seedUsers() {
         const users = [
             {
                 name: "Alice Sharma",
-                email: "zilagurgaon@gmail.com",
+                email: "alicesharma@gmail.com",
                 role: "employee",
                 department: "HR"
             },
             {
                 name: "Bob Singh",
-                email: "zilagurgaon@gmail.com",
+                email: "bobsingh@gmail.com",
                 role: "employee",
                 department: "Finance"
             },
             {
                 name: "Charlie Gupta",
-                email: "zilagurgaon@gmail.com",
+                email: "charliegupta@gmail.com",
                 role: "client",
                 department: null
             },
             {
                 name: "Diana Verma",
-                email: "zilagurgaon@gmail.com",
+                email: "dianaverma@gmail.com",
                 role: "employee",
                 department: "IT"
             },
             {
                 name: "Esha Client",
-                email: "zilagurgaon@gmail.com",
+                email: "eshaclient@gmail.com",
                 role: "client",
                 department: null
             }
