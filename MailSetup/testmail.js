@@ -12,7 +12,7 @@ const transporter = createTransport({
 
 const mailOptions = {
   from: process.env.EMAIL_USER,
-  to: 'ashujoon097@gmail.com', 
+  to: 'TEST_MAIL',//enter the test mail here 
   subject: 'Test Mail',
   html: '<h1>Test Successful</h1><p>This is a test email from Nodemailer setup.</p>'
 };
